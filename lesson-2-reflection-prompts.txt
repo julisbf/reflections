@@ -11,13 +11,28 @@ The different is that on the staging area you put the file(s) that are logical i
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can use it by checking diff of the files
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you want to experiment, add new languages or versions that are complete different to the one you have been working on. 
+Is like having a developer version and when it works properly can be merge into the master
+
 How do the diagrams help you visualize the branch structure?
+
+It helps to visualize what commits are attached and the ones which are lost
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is a new tip of the branch where child branch and master merge, keeping their own commits
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros:
+- Shows you what are the conflicts and creates the new branches
+
+Cons:
+- You will need leaning machine to make it 100% automatic because it can be infinitivy options
