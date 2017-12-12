@@ -4,7 +4,7 @@ A:/ You would want to create a remote repository when you're working with more p
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+A:/ Because you may want to get just certain branch/file that doesn’t need to have the other ones 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
