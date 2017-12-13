@@ -14,7 +14,7 @@ A:/ Forks, you use it when you want to copy a repository from another user into 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+A:/ The benefit is that less changes you need to make when you merge your files with new ones.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
