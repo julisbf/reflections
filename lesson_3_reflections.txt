@@ -19,7 +19,7 @@ A:/ The benefit is that less changes you need to make when you merge your files 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+A:/ To collaborate without using Git or GitHub, you would need to communicate constantly by email, instant message, slack or any messanging app. And files need to be update or send with different names and well documented. It would be harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
